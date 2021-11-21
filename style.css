@@ -1,6 +1,20 @@
 body {
-  background-color: #ddd;
-  color: #333;
-  font-family: sans-serif;
-  text-align: center;
+ background-color:#7fbfcf;
+}
+
+hr {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 5px;
+ width:5%;
+}
+h1 {
+  color: #EAF6F6;
+}
+h3 {
+  color: #EAF6F6;
+}
+h5 {
+  color: #EAF6F1;
 }
